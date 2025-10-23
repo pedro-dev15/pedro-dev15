@@ -7,7 +7,7 @@ Atualmente estou aprendendo **desenvolvimento fullstack com JavaScript**, explor
 Aqui no GitHub compartilho meus estudos, projetos e experimentos com **Node.js e React** e outras tecnologias web 🚀
 
 <p align="left">
-    <a href="https://github.com/pedro_dev?tab=repositories&sort=stargazers">
+    <a href="https://github.com/pedro-dev15?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
