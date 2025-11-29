@@ -1,6 +1,6 @@
 # 👨‍💻 Pedro Pereira
 
-**`Desenvolvedor Estudante FullStack`**
+**`Desenvolvedor Estudante Back-End`**
 
 Olá! Sou o Pedro, tenho 15 anos e sou apaixonado por tecnologia e programação.  
 Atualmente estou aprendendo **desenvolvimento back-end com JavaScript e TypeScript, explorando back-end, APIs** e boas práticas de **HTTP**.  
