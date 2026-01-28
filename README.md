@@ -2,17 +2,39 @@
 
 **`Back-end developer`**
 
-## About Me
-Hello! I'm Pedro, 15 years old, and passionate about technology and programming.  
-Currently, I'm learning back-end development with **JavaScript** and **TypeScript**, exploring APIs, server-side architecture, and best practices in HTTP.  
+# Hi, I'm Pedro 👋
 
-On GitHub, I share my studies, experiments, and projects such as:
+I'm **Pedro**, a 15-year-old developer focused on **back-end development**.  
+I study and build APIs using **JavaScript** and **TypeScript**, with special attention to **architecture, HTTP semantics, and code quality**.
 
-- **CRUD of tasks** – A full TypeScript back-end CRUD project using Node.js and Prisma.  
-- **StackWise** – A learning project exploring advanced back-end concepts.  
-- **FinPal** – Another personal project focusing on finance and data handling.
+My goal is to understand how **real-world back-end systems** are designed, implemented, and maintained.
 
-All built with **Node.js**, **Prisma**, **Express**, and other web technologies 🚀
+## Current Focus
+- Back-end development with Node.js
+- Designing RESTful APIs
+- Applying clean architecture concepts
+- Learning how professional systems scale and evolve
+
+## Main Project — StackWise ⭐
+**StackWise** is the project that best represents my current level and mindset as a back-end developer.
+
+It is a learning-focused back-end API project created to explore:
+
+- Separation of concerns (controllers, use cases, data layer)
+- Proper use of HTTP methods and status codes
+- Authentication and authorization
+- Data modeling with Prisma
+- Maintainable and scalable project structure
+
+StackWise exists to push me beyond basic CRUDs and closer to **real production patterns**.
+
+## Other Projects
+- **Task CRUD** – A TypeScript API focused on fundamentals and best practices
+- **FinPal** – A project exploring finance-related logic and data handling
+
+## Vision
+I'm building a strong foundation in back-end engineering, aiming to grow into more complex systems and professional environments over time.
+
 
 ---
 
