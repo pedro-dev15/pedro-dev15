@@ -4,7 +4,7 @@
 
 # Hi, I'm Pedro 👋
 
-I'm **Pedro**, a 15-year-old developer focused on **back-end development**.  
+I'm **Pedro**, a 16-year-old developer focused on **back-end development**.  
 I study and build APIs using **JavaScript** and **TypeScript**, with special attention to **architecture, HTTP semantics, and code quality**.
 
 My goal is to understand how **real-world back-end systems** are designed, implemented, and maintained.
