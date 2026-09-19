@@ -68,14 +68,3 @@ I'm building a strong foundation in back-end engineering, aiming to grow into mo
 
 ## Contact me
 [![Gmail](https://img.shields.io/badge/Email-%23EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=pedrocpereira.67@gmail.com)
-
----
-
-
-### 📊 Statistics
-
-<p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=pedro-dev15&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=en&cache_seconds=0" />
-
-  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-dev15&theme=chartreuse-dark&layout=compact&custom_title=Technologies&langs_count=9&cache_seconds=0" />
-</p>
